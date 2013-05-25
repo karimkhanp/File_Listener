@@ -9,4 +9,9 @@ step2: Run the file and listen to the changes taking place in particular directo
         // Please enter here path of the direcoty for which you want to listen
         // Suppose you excel file is in /tmp directory, then enter the pass as above. Program will listen what ever changes occur in the directory and file
 
+<<<<<<< HEAD
+https://github.com/karimkhanp/File_Listener
+=======
 
+Like wise you can run listen_create_del_Mod, which will listen to file creation, deletion as well.
+>>>>>>> 1883a2202b5df4772c5d7d7bca1f302cc8a68de9
